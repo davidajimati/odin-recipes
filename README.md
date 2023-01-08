@@ -11,3 +11,5 @@ Skills practiced in this task:
 1. HTML
 2. Git
 3. GitHub
+
+Live preview can be see here: https://davidajimati.github.io/odin-recipes
