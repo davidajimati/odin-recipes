@@ -1,0 +1,23 @@
+.inline-elem {
+    display: inline;
+}
+
+.logo {
+    height: auto;
+    width: 50px;
+}
+
+.homepic {
+    height: auto;
+    width: 300px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
